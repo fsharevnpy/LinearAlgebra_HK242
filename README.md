@@ -1,13 +1,13 @@
 # LinearAlgebra_HK242
 
-This repository contains documents and structured Jupyter example code for each section of the [Linear Algebra](https://d2l.ai/chapter_preliminaries/linear-algebra.html) chapter from the *Dive into Deep Learning* book. The contents are organized into three main parts: **Reports** (full document and presentation slides), **Sections** (code examples), and **Exercises** (practice problems requiring implementation).
+This repository contains documents and structured Jupyter example code for each section of the [Linear Algebra](https://d2l.ai/chapter_preliminaries/linear-algebra.html) chapter from the *Dive into Deep Learning* book. The contents are organized into three main parts: **Reports** (full document and presentation slides), **Sections** (code examples), and **Exercises** (practice problems within the chapter).
 
 ---
 
 ## Reports
 
 - A full written report (PDF format)
-- A presentation slide deck (PDF or PPTX)
+- A presentation slide (PDF format)
 
 ---
 
@@ -24,7 +24,7 @@ Each numbered notebook corresponds to a section in the Linear Algebra chapter:
 | 5 | `5_Basic_Properties_of_Tensor_Arithmetic.ipynb` | Commutativity, associativity, and distributivity in tensor arithmetic. |
 | 6 | `6_Reduction_Operations.ipynb` | Operations such as sum, mean, and max that reduce tensor dimensions. |
 | 7 | `7_Non-reduction_Operations.ipynb` | Element-wise operations that preserve tensor shape. |
-| 8 | `8_Dot_Product.ipynb` | Dot product concepts and applications in projections and similarity. |
+| 8 | `8_Dot_Product.ipynb` | Dot product concepts and applications. |
 | 9 | `9_Matrix–Vector_Products.ipynb` | Linear transformations via matrix–vector multiplication. |
 | 10 | `10_Matrix–Matrix_Multiplication.ipynb` | Theory and applications of matrix–matrix multiplication. |
 | 11 | `11_Norms.ipynb` | Norms for measuring vector and matrix magnitudes (L1, L2, Frobenius, etc.). |
